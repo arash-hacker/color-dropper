@@ -5,6 +5,7 @@ npm start
 ```
 
 ![screenshot.png](shot.png)
+![screenshot2.png](shot2.png)
 
 - [x] reusable as package
 - [x] work fine with large images(garbage collector/ Profiling w/ lighthouse/ over 10min tracking)
