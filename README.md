@@ -18,3 +18,4 @@ npm start
 - [ ] CI/CD
 - [ ] Only support canvas by default
 - [ ] window.scrollY+getBoundingClientRect for inner layers
+- [ ] nativeEvent(offsetX)
