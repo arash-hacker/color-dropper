@@ -8,6 +8,7 @@ npm start
 
 - [x] reusable as package
 - [x] work fine with large images(garbage collector/ Profiling w/ lighthouse/ over 10min tracking)
+- [x] Image selection
 - [ ] unit testing
 - [ ] integration testing
 - [ ] screenshot testing
@@ -16,5 +17,4 @@ npm start
 - [ ] husky for pre-commit
 - [ ] CI/CD
 - [ ] Only support canvas by default
-- [ ] Image selection
 - [ ] window.scrollY+getBoundingClientRect for inner layers
